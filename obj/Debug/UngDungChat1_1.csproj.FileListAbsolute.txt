@@ -1,0 +1,13 @@
+D:\Visual studio 2022\UngDungChat1_1\bin\Debug\UngDungChat1_1.exe.config
+D:\Visual studio 2022\UngDungChat1_1\bin\Debug\UngDungChat1_1.exe
+D:\Visual studio 2022\UngDungChat1_1\bin\Debug\UngDungChat1_1.pdb
+D:\Visual studio 2022\UngDungChat1_1\obj\Debug\UngDungChat1_1.csproj.AssemblyReference.cache
+D:\Visual studio 2022\UngDungChat1_1\obj\Debug\UngDungChat1_1.Form1.resources
+D:\Visual studio 2022\UngDungChat1_1\obj\Debug\UngDungChat1_1.Properties.Resources.resources
+D:\Visual studio 2022\UngDungChat1_1\obj\Debug\UngDungChat1_1.csproj.GenerateResource.cache
+D:\Visual studio 2022\UngDungChat1_1\obj\Debug\UngDungChat1_1.csproj.CoreCompileInputs.cache
+D:\Visual studio 2022\UngDungChat1_1\obj\Debug\UngDungChat1_1.exe
+D:\Visual studio 2022\UngDungChat1_1\obj\Debug\UngDungChat1_1.pdb
+D:\Visual studio 2022\UngDungChat1_1\obj\Debug\UngDungChat1_1.Form2.resources
+D:\Visual studio 2022\UngDungChat1_1\bin\Debug\Guna.UI2.dll
+D:\Visual studio 2022\UngDungChat1_1\obj\Debug\UngDungChat1_1.csproj.CopyComplete
